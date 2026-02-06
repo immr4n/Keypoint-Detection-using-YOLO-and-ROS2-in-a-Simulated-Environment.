@@ -1,0 +1,18 @@
+# Core numerical & math
+numpy>=1.23
+scipy>=1.9
+
+# Computer vision
+opencv-python>=4.8
+
+# YOLOv8 (keypoints support)
+ultralytics>=8.0.0
+
+# Visualization helpers
+matplotlib>=3.7
+
+# Filtering & utilities
+filterpy>=1.4.5
+
+# YAML config support
+pyyaml>=6.0
