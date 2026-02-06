@@ -1,0 +1,6 @@
+[console_scripts]
+gesture_to_cmdvel = yolo_keypoint_sim.gesture_to_cmdvel:main
+keypoints_tf_broadcaster = yolo_keypoint_sim.keypoints_tf_broadcaster:main
+skeleton_bones_node = yolo_keypoint_sim.skeleton_bones_node:main
+skeleton_marker_node = yolo_keypoint_sim.skeleton_marker_node:main
+
